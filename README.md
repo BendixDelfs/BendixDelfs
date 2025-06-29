@@ -1,4 +1,6 @@
-## Hi there 👋
+## 🦧
+
+no clue what I am doing, just trying to learn:) 
 
 <!--
 **BendixDelfs/BendixDelfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
